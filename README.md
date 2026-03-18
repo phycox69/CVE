@@ -2,3 +2,4 @@
 Este directorio contiene la documentación técnica, análisis de impacto y pruebas de concepto (PoC) de vulnerabilidades críticas analizadas.
 
 [📄 CVE-2025-0471](./CVE-2025-0471/CVE-2025-0471.md)
+[📄 CVE-2025-0472](./CVE-2025-0472/CVE-2025-0472.md)
