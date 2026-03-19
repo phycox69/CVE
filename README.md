@@ -4,3 +4,5 @@ Este directorio contiene la documentación técnica, análisis de impacto y prue
 [📄 CVE-2025-0471](./CVE-2025-0471/CVE-2025-0471.md)
 
 [📄 CVE-2025-0472](./CVE-2025-0472/CVE-2025-0472.md)
+
+[📄 CVE-2025-0473](./CVE-2025-0473/CVE-2025-0473.md)
